@@ -29,7 +29,7 @@ python src/train.py --test-size 0.2 --random-state 42
 
 --
 
-## Arguments
+### Arguments
 
 The training script accepts two optional arguments:
 
